@@ -1,6 +1,6 @@
 {
   "name": "test-simple-main",
-  "version": "0.0.29",
+  "version": "0.0.33",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,9 @@
   "homepage": "https://github.com/karanjthakkar/test-simple-main#readme",
   "releases": {
     "test-simple-main": {
-      "lastSHA": "6d7616eadf223e008c51bd3b96e002e997f09023",
-      "since": "2016-07-18T15:50:31Z",
-      "message": "Update package with release info"
+      "lastSHA": "11e8f09db9bf47a42a53238c2c274383d890aaf1",
+      "since": "2016-07-18T15:27:55Z",
+      "message": "Bump package version to 0.0.5"
     },
     "test-simple-1": {
       "lastSHA": "b1e2abb8a9518715e9cc4b9898c036876a7b7ec0",
