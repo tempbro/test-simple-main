@@ -23,9 +23,9 @@
       "message": "test2"
     },
     "test-simple-1": {
-      "lastSHA": "b1e2abb8a9518715e9cc4b9898c036876a7b7ec0",
-      "since": "2016-07-18T14:58:21Z",
-      "message": "Added test1"
+      "lastSHA": "55a722366613dddb8aa8c6ee75f902c737cac7fa",
+      "since": "2016-07-18T15:59:33Z",
+      "message": "test2"
     }
   }
 }
