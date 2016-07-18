@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/karanjthakkar/test-simple-main/issues"
   },
-  "homepage": "https://github.com/karanjthakkar/test-simple-main#readme"
+  "homepage": "https://github.com/karanjthakkar/test-simple-main#readme",
+  "releases": {
+    "test-simple-main": {
+      "lastSHA": "89d5601df7148ecdce78ac893cb956e2e14788bf",
+      "since": "2016-07-18T14:54:02Z",
+      "message": "Init"
+    },
+    "test-simple-1": {
+      "lastSHA": "e00d1252d8fb8a205e631cdb554f21ac83f3205a",
+      "since": "2016-07-18T14:54:23Z",
+      "message": "Init"
+    }
+  }
 }
