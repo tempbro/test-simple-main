@@ -18,14 +18,14 @@
   "homepage": "https://github.com/karanjthakkar/test-simple-main#readme",
   "releases": {
     "test-simple-main": {
-      "lastSHA": "89d5601df7148ecdce78ac893cb956e2e14788bf",
-      "since": "2016-07-18T14:54:02Z",
-      "message": "Init"
+      "lastSHA": "4d87b4abf925f958dea14d50e2163a0068fda73e",
+      "since": "2016-07-18T14:57:19Z",
+      "message": "Update package with release info"
     },
     "test-simple-1": {
-      "lastSHA": "e00d1252d8fb8a205e631cdb554f21ac83f3205a",
-      "since": "2016-07-18T14:54:23Z",
-      "message": "Init"
+      "lastSHA": "b1e2abb8a9518715e9cc4b9898c036876a7b7ec0",
+      "since": "2016-07-18T14:58:21Z",
+      "message": "Added test1"
     }
   }
 }
