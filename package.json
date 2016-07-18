@@ -18,9 +18,9 @@
   "homepage": "https://github.com/karanjthakkar/test-simple-main#readme",
   "releases": {
     "test-simple-main": {
-      "lastSHA": "7a86648a71809218f2de1ce5f9eb43f24957f42c",
-      "since": "2016-07-18T14:58:11Z",
-      "message": "Added test1"
+      "lastSHA": "3bbc15ec247190d058f34bd593535815dc7fd0c6",
+      "since": "2016-07-18T15:24:35Z",
+      "message": "Bump package version to 0.0.2"
     },
     "test-simple-1": {
       "lastSHA": "b1e2abb8a9518715e9cc4b9898c036876a7b7ec0",
