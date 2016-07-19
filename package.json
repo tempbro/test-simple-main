@@ -38,9 +38,9 @@
         "message": "Update package with release info"
       },
       "test-simple-1": {
-        "lastSHA": "55a722366613dddb8aa8c6ee75f902c737cac7fa",
-        "since": "2016-07-18T15:59:33Z",
-        "message": "test2"
+        "lastSHA": "53bc23cfa79d0b960e9e10e96922c741d10ce75c",
+        "since": "2016-07-19T10:34:38Z",
+        "message": "test4"
       }
     }
   }
