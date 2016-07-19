@@ -33,13 +33,13 @@
     ],
     "releases": {
       "test-simple-main": {
-        "lastSHA": "16da56e43399a76caf98739f176835741568f9ab",
-        "since": "2016-07-19T10:41:32Z",
+        "lastSHA": "52a391d521d536f706e59c99718f6c950ce8cbc4",
+        "since": "2016-07-19T10:58:46Z",
         "message": "test7"
       },
       "test-simple-1": {
-        "lastSHA": "1edb5e9063c83efdf68191bcd1b5644a94c3776b",
-        "since": "2016-07-19T10:41:37Z",
+        "lastSHA": "0038133760a0b87e31533151e7b83acd98f47a43",
+        "since": "2016-07-19T10:59:02Z",
         "message": "test7"
       }
     }
