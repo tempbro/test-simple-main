@@ -27,9 +27,9 @@
     ],
     "releases": {
       "test-simple-main": {
-        "lastSHA": "ccc066208a790ed0aa4ad006239b2afb250123fc",
-        "since": "2016-07-19T10:21:41Z",
-        "message": "Add basic"
+        "lastSHA": "2479c7138e281b3396dd7150f8d4ec554a5bc8c6",
+        "since": "2016-07-19T10:29:34Z",
+        "message": "test3"
       }
     }
   }
