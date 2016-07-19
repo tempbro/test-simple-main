@@ -1,6 +1,6 @@
 {
   "name": "test-simple-main",
-  "version": "0.0.44",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
