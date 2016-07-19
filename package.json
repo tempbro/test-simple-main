@@ -15,5 +15,21 @@
   "bugs": {
     "url": "https://github.com/karanjthakkar/test-simple-main/issues"
   },
-  "homepage": "https://github.com/karanjthakkar/test-simple-main#readme"
+  "homepage": "https://github.com/karanjthakkar/test-simple-main#readme",
+  "simple-release": {
+    "config": [
+      {
+        "user": "karanjthakkar",
+        "name": "test-simple-main",
+        "main": true
+      }
+    ],
+    "releases": {
+      "test-simple-main": {
+        "lastSHA": "ccc066208a790ed0aa4ad006239b2afb250123fc",
+        "since": "2016-07-19T10:21:41Z",
+        "message": "Add basic"
+      }
+    }
+  }
 }
