@@ -21,21 +21,19 @@
       {
         "user": "karanjthakkar",
         "name": "test-simple-main",
-        "main": true,
-        "since": "2016-07-19T10:41:32Z"
+        "main": true
       },
       {
         "user": "karanjthakkar",
         "name": "test-simple-1",
-        "main": false,
-        "since": "2016-07-19T10:41:37Z"
+        "main": true
       }
     ],
     "releases": {
       "test-simple-main": {
-        "lastSHA": "52a391d521d536f706e59c99718f6c950ce8cbc4",
-        "since": "2016-07-19T10:58:46Z",
-        "message": "test7"
+        "lastSHA": "5c014b32dfaa6eea26e7659a52a8792160ada6dc",
+        "since": "2016-07-19T10:59:21Z",
+        "message": "Update package with release info"
       },
       "test-simple-1": {
         "lastSHA": "0038133760a0b87e31533151e7b83acd98f47a43",
