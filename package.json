@@ -33,14 +33,14 @@
     ],
     "releases": {
       "test-simple-main": {
-        "lastSHA": "5a72f4de48164f5f592d80ca4bedaec34db2c0db",
-        "since": "2016-07-19T10:31:29Z",
-        "message": "Update package with release info"
+        "lastSHA": "e40d9476950301a4eba19fa02ad56229a82a8fcb",
+        "since": "2016-07-19T10:35:47Z",
+        "message": "test5"
       },
       "test-simple-1": {
-        "lastSHA": "53bc23cfa79d0b960e9e10e96922c741d10ce75c",
-        "since": "2016-07-19T10:34:38Z",
-        "message": "test4"
+        "lastSHA": "09ae6409afeff61f84efdfe46c227f20557f7c70",
+        "since": "2016-07-19T10:35:39Z",
+        "message": "test5"
       }
     }
   }
