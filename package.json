@@ -31,9 +31,9 @@
     ],
     "releases": {
       "test-simple-main": {
-        "lastSHA": "7c58d1137885614f100ecc6572e61be387b51dd2",
-        "since": "2016-07-19T18:18:02Z",
-        "message": "test921"
+        "lastSHA": "2aab5d3d1255c138b5d99c5461f2eece963f9dc2",
+        "since": "2016-07-19T18:45:03Z",
+        "message": "Update package with release info"
       },
       "test-simple-1": {
         "lastSHA": "df52c408510c872238ddbf307e7eeeaa5034f51e",
