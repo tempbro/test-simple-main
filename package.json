@@ -1,6 +1,6 @@
 {
   "name": "test-simple-main",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,12 +21,14 @@
       {
         "user": "karanjthakkar",
         "name": "test-simple-main",
-        "main": true
+        "main": true,
+        "since": "2016-07-19T18:45:03Z"
       },
       {
         "user": "karanjthakkar",
         "name": "test-simple-1",
-        "main": true
+        "main": true,
+        "since": "2016-07-19T18:05:44Z"
       }
     ],
     "releases": {
