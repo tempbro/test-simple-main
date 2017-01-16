@@ -33,14 +33,14 @@
     ],
     "releases": {
       "test-simple-main": {
-        "lastSHA": "35d8710a50f90ae90a3d41230226e7acf572f8e6",
-        "since": "2016-07-20T05:12:53Z",
-        "message": "2testa921"
+        "lastSHA": "cf14b7968626249777064a1d8a9aa717828bf890",
+        "since": "2016-07-20T15:44:11Z",
+        "message": "1qtest91"
       },
       "test-simple-1": {
-        "lastSHA": "37a5208803c79d3f6f673c053a20b4363dd4a725",
-        "since": "2016-07-20T05:13:00Z",
-        "message": "qtest9"
+        "lastSHA": "a1a93333d52f3e17ea4dcc17c109fc1a0330e693",
+        "since": "2017-01-16T08:27:46Z",
+        "message": "Merge pull request test"
       }
     }
   }
