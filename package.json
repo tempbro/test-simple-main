@@ -38,9 +38,9 @@
         "message": "1qtest91"
       },
       "test-simple-1": {
-        "lastSHA": "a1a93333d52f3e17ea4dcc17c109fc1a0330e693",
-        "since": "2017-01-16T08:27:46Z",
-        "message": "Merge pull request test"
+        "lastSHA": "c9eb09de6a033ae2f9c8298a1b509fa3fca3e540",
+        "since": "2017-01-16T08:40:02Z",
+        "message": "hey"
       }
     }
   }
