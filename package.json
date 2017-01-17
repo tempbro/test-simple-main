@@ -33,9 +33,9 @@
     ],
     "releases": {
       "test-simple-main": {
-        "lastSHA": "cf14b7968626249777064a1d8a9aa717828bf890",
-        "since": "2016-07-20T15:44:11Z",
-        "message": "1qtest91"
+        "lastSHA": "f7b2e0dd61a5bd571c1ddfc54b2616a25dcec3d6",
+        "since": "2017-01-17T10:55:43Z",
+        "message": "Brooo"
       },
       "test-simple-1": {
         "lastSHA": "c9eb09de6a033ae2f9c8298a1b509fa3fca3e540",
