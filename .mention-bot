@@ -1,0 +1,8 @@
+{
+  "maxReviewers": 2,
+  "actions": ["opened", "labeled"],
+  "numFilesToCheck": 20,
+  "createReviewRequest": true,
+  "skipTitle": "",
+  "withLabel": ["review-needed"]
+}
